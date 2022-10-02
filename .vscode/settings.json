@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "Rexburg"
-    ]
+    ],
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }

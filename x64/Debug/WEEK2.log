@@ -1,0 +1,8 @@
+﻿  WEEK2.cpp
+C:\C++\WEEK2\WEEK2\WEEK2.cpp(21,12): warning C4101: 'deposit': unreferenced local variable
+WEEK2.obj : error LNK2019: unresolved external symbol "public: __cdecl account::Account::Account(void)" (??0Account@account@@QEAA@XZ) referenced in function main
+WEEK2.obj : error LNK2019: unresolved external symbol "public: void __cdecl account::Account::setup(void)" (?setup@Account@account@@QEAAXXZ) referenced in function main
+WEEK2.obj : error LNK2019: unresolved external symbol "public: void __cdecl account::Account::display(void)const " (?display@Account@account@@QEBAXXZ) referenced in function main
+WEEK2.obj : error LNK2019: unresolved external symbol "public: void __cdecl account::Account::deposit(float)" (?deposit@Account@account@@QEAAXM@Z) referenced in function main
+WEEK2.obj : error LNK2019: unresolved external symbol "public: void __cdecl account::Account::withdraw(float)" (?withdraw@Account@account@@QEAAXM@Z) referenced in function main
+C:\C++\WEEK2\x64\Debug\WEEK2.exe : fatal error LNK1120: 5 unresolved externals
